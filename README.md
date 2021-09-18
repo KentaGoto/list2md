@@ -9,3 +9,9 @@ you want to create into this batch file.
 
 ## NOTE:
 The format of the list (*.txt) is Shift-JIS.  
+
+## AUTHOR
+Kenta Goto  
+
+## LICENSE
+MIT  
