@@ -10,6 +10,12 @@ you want to create into this batch file.
 ## NOTE
 The format of the list (*.txt) is Shift-JIS.  
 
+## Tips
+You can also substitute one-liner.  
+```
+> for /f "delims=" %a in (list.txt) do md "%a"
+```
+
 ## AUTHOR
 Kenta Goto  
 
