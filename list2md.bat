@@ -8,7 +8,7 @@ rem Drag and drop a text file (*.txt) with the name of the folder
 rem you want to create into this batch file.
 rem
 rem NOTE:
-rem The format of the list (*.txt) is Shift-JIS.
+rem The format of the list (*.txt) is ASCII or Shift-JIS.
 
 
 echo Folder:
