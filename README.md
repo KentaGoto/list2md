@@ -13,7 +13,7 @@ The format of the list (*.txt) is ASCII or Shift-JIS.
 ## Tips
 You can also substitute one-liner.  
 ```
-> for /f "delims=" %a in (list.txt) do md "%a"
+> for /f "delims=" %a in (***<Specify *.txt file>***) do md "%a"
 ```
 
 ## AUTHOR
